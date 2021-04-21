@@ -140,4 +140,4 @@ dmypy.json
 cython_debug/
 
 ## Mac config
-.DS_S*
+.DS_Store
